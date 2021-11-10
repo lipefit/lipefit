@@ -7,7 +7,7 @@
 
  
 
-:computer: Sou desenvolvedor WEB!
+:computer: Desenvolvedor WEB | Back-end | PHP
 
 :house_with_garden: Moro em Guarulhos / SP.
 
