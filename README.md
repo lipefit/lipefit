@@ -22,6 +22,4 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lipefit&theme=radical&count_private=true&show_icons=true&hide=stars,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipefit&layout=compact)](https://github.com/lipefit/github-readme-stats)
-
 - Obrigado pela visita! o/
